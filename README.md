@@ -14,7 +14,7 @@ admin
 admin
 
 
-Su podaci za pristup racunima ukoliko ne zelite raditi svoej preko registracije
+Su podaci za pristup racunima ukoliko ne zelite raditi svoje preko registracije
 
 
 Baza za importanje je ovaj sql file u masteru
