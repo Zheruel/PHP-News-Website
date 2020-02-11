@@ -13,4 +13,4 @@ admin
 Su podaci za pristup racunima ukoliko ne zelite raditi svoej preko registracije
 
 
-Baza za importanje se nalazi u baza folderu
+Baza za importanje je ovaj sql file u masteru
