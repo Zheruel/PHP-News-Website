@@ -1,0 +1,16 @@
+Na index.php prikazuje 3 clanka iz kategorije zabava i kategorije ozbiljno
+Ako se ode na odredenu kategoriju preko navbara prikazuje sve za tu kategoriju
+Samo korisnici mogu postati clanke
+Samo administratori mogu brisati clanke i pristupiti admin panelu
+
+korisnik
+korisnik
+
+admin
+admin
+
+
+Su podaci za pristup racunima ukoliko ne zelite raditi svoej preko registracije
+
+
+Baza za importanje se nalazi u baza folderu
